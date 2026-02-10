@@ -4,8 +4,7 @@ const Index = () => {
   return (
     <div className="min-h-screen bg-background flex flex-col">
       {/* Content area */}
-      <div className="flex-1 flex flex-col items-center justify-center px-6">
-        <div className="text-center mb-auto" />
+      <div className="flex-1 flex items-center justify-center px-6">
         <div className="text-center">
           <a
             href="mailto:martin@oeminteractive.se"
