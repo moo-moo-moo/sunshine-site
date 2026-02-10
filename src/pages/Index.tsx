@@ -32,7 +32,7 @@ const Index = () => {
         <img
           src={oemLogo}
           alt="OEM Interactive"
-          className="w-[60%] md:w-[45%] lg:w-[35%] translate-y-[15%] max-w-[700px]"
+          className="w-full translate-y-[15%]"
         />
       </div>
     </div>
